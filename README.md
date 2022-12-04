@@ -1,14 +1,17 @@
-Purpose
-workout routine website
+Purpose:
+Static gym website
 
-Signup button:
-Login page with details of user
+
+Email Subscription button:
+Send users email to me
 
 Home page:
-show most popular workouts
+Show off coaches, classes and plans
 
-customised plan:
-Give a short survey to find out what the users need and give a customised workout plan
+Features:
 
-videos
+Scroll Reveal animation
+Email js function
+Scalable website with different sizess
+Different menu layout for mobile and laptop
 
